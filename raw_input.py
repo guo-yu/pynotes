@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Filename : youngboy.py
+# Filename : raw_input.py
 
 def input(q):
   return raw_input(q)
