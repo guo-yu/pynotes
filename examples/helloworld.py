@@ -13,6 +13,12 @@ print 'hello world!' # => 'hello world'
 # 字符串中的 %s 标识了一个 placeholder（占位符）
 # 在字符串结束后 以 % 分割，%之后的代表占位符的内容，以此替代占位符，占位符内容可以是变量或者常量
 # 多个占位内容，以 , 分割，被 () 包围
+
+# 在这个例子里，'world again' 替换了 %s
 print 'hello %s' % 'world again !' # => 'hello world again'
+
+# 在这个例子里，hellotext 替换了 %s
 print 'hello %s' % hellotext # => 'hello world again and again'
-print 'hello %s %s' % ('world',' again and again and again !') # => 'hello world again and again and again'
+
+# 在这个例子里，'world' 和 'again and again and again !' 分别替换了 %s 和 %s（这两个 %s 是不同占位符）
+print 'hello %s %s' % ('world','again and again and again !') # => 'hello world again and again and again'
