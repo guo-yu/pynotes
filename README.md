@@ -2,6 +2,28 @@
 
 根据代码片段来学习 Python
 
+### 范例目录
+
+#### [basic.py](./blob/master/examples/basic.py)
+
+列出了基本的变量类型，赋值，运算符的使用，访问数组元素，创建字典，访问字典属性等基本知识
+
+#### [helloworld.py](./blob/master/examples/helloworld.py)
+
+学习了 print 与 printf 等打印方法
+
+#### [class.py](./blob/master/examples/class.py)
+
+介绍 Python 类的概念，熟悉和使用类进行面向对象的开发
+
+#### [requests.py](./blob/master/examples/requests.py)
+
+介绍 import 的概念，并编写了一个进行网络请求的 requests 范例
+
+#### [raw_input.py](./blob/master/examples/raw_input.py)
+
+编写了一个获取用户命令行输入的代码范例，介绍与输入相关的 api
+
 ### 安装 Python 环境
 
 编程语言依赖相应的环境进行编译和执行。Python 也依赖相关的环境。你可能需要一台 linux 操作系统的 PC，或者使用 Mac 来访问终端。如果在 windows 环境下，可以使用 powershell。
