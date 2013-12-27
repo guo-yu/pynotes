@@ -1,7 +1,6 @@
+# -*- coding: UTF-8 –*-
 #!/usr/bin/python
-# Filename : module_raw_input.py
-
-version = '0.0.1'
+# Filename : raw_input.py
 
 def input(q):
   return raw_input(q)
