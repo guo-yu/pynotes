@@ -12,6 +12,10 @@
 
 学习了 print 与 printf 等打印方法
 
+#### [def.py](./blob/master/examples/def.py)
+
+基本的函数（方法）定义范例
+
 #### [class.py](./blob/master/examples/class.py)
 
 介绍 Python 类的概念，熟悉和使用类进行面向对象的开发
@@ -23,6 +27,14 @@
 #### [raw_input.py](./blob/master/examples/raw_input.py)
 
 编写了一个获取用户命令行输入的代码范例，介绍与输入相关的 api
+
+#### [request.py](./blob/master/examples/request.py)
+
+一个请求 url 的通信代码范例
+
+#### [if_else.py](./blob/master/examples/if_else.py)
+
+基本的逻辑判断范例
 
 ### 安装 Python 环境
 
