@@ -28,10 +28,6 @@
 
 编写了一个获取用户命令行输入的代码范例，介绍与输入相关的 api
 
-#### [request.py](./blob/master/examples/request.py)
-
-一个请求 url 的通信代码范例
-
 #### [if_else.py](./blob/master/examples/if_else.py)
 
 基本的逻辑判断范例
